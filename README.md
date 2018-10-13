@@ -3,7 +3,7 @@
 - Team name: DieWelle
 - Team members:
     - Molnár Gábor
-    - Pap Vityó
+    - Papp Viktor
     - Foltányi Bence
 
 ### Project Specification
