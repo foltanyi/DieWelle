@@ -29,10 +29,11 @@ These vectors can then be used to create our train, validation and test inputs.
 
 ### Related work
 
-We have found [this paper](https://cs224d.stanford.edu/reports/BartleAric.pdf) in the subject that gave us some ideas to try out later at the modelling fase, for example using a convolucional neural network.
+We have found [this paper](https://cs224d.stanford.edu/reports/BartleAric.pdf) in the subject that gave us some ideas to try out later at the modelling phase, for example using a convolutional neural network.
+We also found [this paper](https://pdfs.semanticscholar.org/ab57/f45889b7099b98eea56399782dc7a4d5893a.pdf), which uses CNN-s to predict gender and age of blog posts, and [this paper](https://web.stanford.edu/class/cs224n/reports/6846198.pdf) where they predict genders of poems, with using CNN-s for extracting high level features from the text, and RNN-s to capture long term dependencies.
 
 ### Plans
 
-We would like to try different kinds of networks (fully connected, convolucional) and compare the results.
+We would like to try different kinds of networks (fully connected, convolutional, LSTM) and compare the results. We also planning to try other data preprocessing algorithms like stemming, for reducing vocabulary size, if necessary.
 
 
