@@ -37,3 +37,8 @@ We also found [this paper](https://pdfs.semanticscholar.org/ab57/f45889b7099b98e
 We would like to try different kinds of networks (fully connected, convolutional, LSTM) and compare the results. We also planning to try other data preprocessing algorithms like stemming, for reducing vocabulary size, if necessary.
 
 
+## Milestone II.
+
+We refactored the data processing script, so it is now a cleaner code. We added world stemming to removes stopwords and also words that appear infrequently.
+
+We built our neural network using the keras word embedding layer, which provide a dense representation of words and their relative meanings. It requires that the input data be integer encoded, thats what we did for the first milestone. 
