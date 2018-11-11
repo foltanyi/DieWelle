@@ -39,7 +39,7 @@ We would like to try different kinds of networks (fully connected, convolutional
 
 ## Milestone II.
 
-We refactored the data processing script, so it is now a cleaner code. We added world stemming to removes stopwords and also words that appear infrequently.
+We refactored the data processing script, so it is now a cleaner code. We added world stemming to remove stopwords and also words that appear infrequently.
 
 We built our neural network using the keras word embedding layer, which provide a dense representation of words and their relative meanings. It requires that the input data be integer encoded.
 
