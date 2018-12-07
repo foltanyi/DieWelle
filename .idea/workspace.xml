@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1a03a93-8f0f-4b66-b1b7-ea4f2a5b6f55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dataPreproc.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/embeddingLayer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPreprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dataPreprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/embeddingLayer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/embeddingLayer.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +36,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1296" />
+          <entry key="md" value="1381" />
           <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="368" />
+          <entry key="Markdown" value="453" />
           <entry key="PLAIN_TEXT" value="944" />
         </counts>
       </usages-collector>
@@ -57,30 +54,12 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="757">
-                <caret line="43" column="236" selection-start-line="43" selection-start-column="236" selection-end-line="43" selection-end-column="236" />
+              <first_editor relative-caret-position="814">
+                <caret line="47" column="60" selection-start-line="47" selection-start-column="60" selection-end-line="47" selection-end-column="60" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dp_hw_ms2.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/embeddingLayer.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -95,7 +74,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataPreprocessing.ipynb">
+        <entry file="file://$PROJECT_DIR$/embeddingLayer.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
@@ -136,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,7 +127,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,10 +148,10 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1922" height="1029" extended-state="6" />
+    <frame x="1920" y="0" width="1920" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.040104166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14375" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -196,20 +175,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Readme.md upload" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dp_hw_ms2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataPreprocessing.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dp_hw_ms2.ipynb" />
+    <entry file="file://$PROJECT_DIR$/dataPreprocessing.ipynb" />
     <entry file="file://$PROJECT_DIR$/dataPreproc.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -232,8 +199,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="757">
-            <caret line="43" column="236" selection-start-line="43" selection-start-column="236" selection-end-line="43" selection-end-column="236" />
+          <first_editor relative-caret-position="814">
+            <caret line="47" column="60" selection-start-line="47" selection-start-column="60" selection-end-line="47" selection-end-column="60" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

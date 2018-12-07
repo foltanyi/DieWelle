@@ -44,3 +44,6 @@ We refactored the data processing script, so it is now a cleaner code. We added 
 We built our neural network using the keras word embedding layer, which provide a dense representation of words and their relative meanings. It requires that the input data be integer encoded.
 
 After the embedding layer we used dense layers to capture our feature, but the network is not learning well.
+
+Link to out2.json wich contains 50.000 preprocessed blog posts.
+https://drive.google.com/open?id=1eP3XWK-3QfMBlG6VepQmmD2Jccg-zsR6
