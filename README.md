@@ -45,5 +45,18 @@ We built our neural network using the keras word embedding layer, which provide 
 
 After the embedding layer we used dense layers to capture our feature, but the network is not learning well.
 
-Link to out2.json wich contains 50.000 preprocessed blog posts.
-https://drive.google.com/open?id=1eP3XWK-3QfMBlG6VepQmmD2Jccg-zsR6
+
+## Milestone III.
+
+### Sentiment
+We tried sentiment analysis to build a base model for the more complex gender classification. The related Python notebook is sentiment.ipynb and the database that was used is called Tweets.csv. This model was trained using a 7700k CPU.
+
+### Gender determination
+We preprocessed 50.000 blog posts with the methods presented in the first two milestones. After that we used our experience from the sentiment analysis, and we built a 1D convolutional network upon the keras word embedding layer. This model was trained on colab, with GPU-s.
+
+### Usage
+The original database can be downloaded [from here](https://www.kaggle.com/tomlisankie/blog-posts-labeled-with-age-and-gender/) .It has to be renamed for test.json, for the dataPrepoc.ipynb, which we used to create a smaller database, already preformatted for training. The resulting file is the out2.json file, which can be downloaded from [google drive](https://drive.google.com/open?id=1eP3XWK-3QfMBlG6VepQmmD2Jccg-zsR6). It is used for running the gender_conv.ipynb.
+
+### Documentation
+Our documentation is in Hungarian since we no longer aim to finish the course without an exam due to time constraints.
+
